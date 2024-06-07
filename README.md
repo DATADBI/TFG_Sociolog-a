@@ -1,1 +1,1 @@
-# TFG_Sociolog-a
+# TFG_Sociologia
