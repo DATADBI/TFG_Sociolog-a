@@ -120,7 +120,7 @@ El diseño de investigación es transeccional, ya que se recolectan datos en un 
 La muestra está compuesta por estudiantes, profesores y personal administrativo de la Universidad Central de Venezuela. Se utilizó un muestreo estratificado para garantizar la representatividad de los diferentes grupos de la comunidad universitaria.
 
 **Instrumentos de Investigación:**
-Se utilizaron encuestas estructuradas y entrevistas semi-estructuradas como instrumentos principales de recolección de datos. Las encuestas permitieron obtener datos cuantitativos sobre las percepciones de los participantes, mientras que las entrevistas proporcionaron información cualitativa más detallada.
+Se utilizaron encuestas estructuradas como instrumento principal de recolección de datos. Las encuestas permitieron obtener datos cuantitativos sobre las percepciones de los participantes, mientras que...
 
 ---
 
@@ -497,12 +497,5 @@ AGRADECEMOS TU TIEMPO Y EN CASO DE QUE TENGAS COMENTARIOS, TE INVITAMOS A QUE LO
 
 RESPUESTA ABIERTA___________________________
 
-**Anexo B: Guía de Entrevista**
-
-1. ¿Qué significa para usted ser parte de la comunidad de la Universidad Central de Venezuela?
-2. ¿Qué elementos considera que definen la identidad UCVista?
-3. ¿Cómo cree que los valores institucionales de la UCV se reflejan en la vida cotidiana de la universidad?
-4. ¿Cuál es su percepción sobre la historia y tradición de la UCV y su influencia en la identidad universitaria?
-5. ¿Qué sugerencias tiene para fortalecer la identidad UCVista entre los miembros de la comunidad universitaria?
-
+**Anexo B: 
 ---
